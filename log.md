@@ -1,30 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: April 1, Monday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Completed the "Basic HTML and HTML5" and "Basic CSS" sections on freeCodeCamp! Time Spent: 1 hour 48 minutes.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I've decided to take up the #100DaysOfCode challenge to bring a sense of order to my otherwise chaotic life. I am hoping that the accountability will keep the ball rolling, and in the process I will pick up many invaluable skills that will help me along my journey of self-growth. To kickstart the challenge I will be tackling the amazing [freeCodeCamp curriculum](https://learn.freecodecamp.org/) and where possible I will [stream my progress](https://www.twitch.tv/DeadmanoDoesCode) daily, hopefully allowing for a space where others can drop by and be a part of the journey, offer tips, or even ask for advice. I'm feeling generally excited to learn new and exciting things!
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [YouTube Livestream Video](https://www.youtube.com/watch?v=tEy0cRqxFzw)
+2. [Twitter Post](https://twitter.com/DeadmanoCodes/status/1112744803228368897)
