@@ -10,7 +10,8 @@
 
 **Link(s) to work**
 1. [YouTube Livestream Video](https://www.youtube.com/watch?v=tEy0cRqxFzw)
-2. [Twitter Post](https://twitter.com/DeadmanoCodes/status/1112744803228368897)
+2. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1112731410715025408)
+3. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1112744803228368897)
 
 ### Day 2: April 2, Tuesday
 
@@ -23,7 +24,10 @@
 **Link(s) to work**
 1. [YouTube Livestream Video (Morning)](https://www.youtube.com/watch?v=qNDK18lz_NY)
 2. [YouTube Livestream Video (Evening)](https://www.youtube.com/watch?v=aoWVzCXiTlk)
-3. [Twitter Post](https://twitter.com/DeadmanoCodes/status/1113018310092718080)
+3. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1113009644782448640)
+4. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1113018310092718080)
+5. [Twitter Post #3](https://twitter.com/DeadmanoCodes/status/1113163849090383872)
+6. [Twitter Post #4](https://twitter.com/DeadmanoCodes/status/1113164631093186561)
 
 ### Day 3: April 3, Wednesday
 
