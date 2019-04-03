@@ -24,3 +24,19 @@
 1. [YouTube Livestream Video (Morning)](https://www.youtube.com/watch?v=qNDK18lz_NY)
 2. [YouTube Livestream Video (Evening)](https://www.youtube.com/watch?v=aoWVzCXiTlk)
 3. [Twitter Post](https://twitter.com/DeadmanoCodes/status/1113018310092718080)
+
+### Day 3: April 3, Wednesday
+
+**Today's Progress**: Completed the "CSS Flexbox" and "CSS Grid" sections and started working on the "Build a Tribute Page" web design project on freeCodeCamp!
+
+**Time Spent**: 1 hour 12 minutes (afternoon) and 2 hours 25 minutes (evening). 3 hours 37 minutes total.
+
+**Thoughts** Today, I'm going to be honest, I was procrastinating far longer than I should have, as I was really nervous about the upcoming web design projects. A lot of pressure to create something from scratch, with barely any experience at all! I managed to pluck up the courage in the afternoon and finished the "CSS Flexbox" and "CSS Grid" modules over at freeCodeCamp, before deciding to take a quick break to have lunch. When I returned, it was time to tackle my very first web design project from freeCodeCamp; Build a Tribute Page! I thought about it for a moment and then decided to dedicate it to the person who has taught me to never give up on my goals; Chester Bennington. But before I could even begin, I realised just how much of the information from all the modules I did really stuck. I could barely remember the basics, and found myself Googling the rest for reference. The hand-holding approach of being told exactly what to do gives you a sense of achievement, but the moment you're let loose is the moment you realise just how unprepared you really are! All in all, I managed to push through and make good progress, even managing to pass all 10 tests in a single sitting, so all that is left is a bit of polish tomorrow and I'll be done! I'm feeling excited and motivated overall, and the true accomplishment comes from actually creating something from nothing, which I feel the real experience comes from.
+
+**Link(s) to work**
+1. [YouTube Livestream Video (CSS Flexbox/Grid)](https://www.youtube.com/watch?v=sDvQqcc5944)
+2. [YouTube Livestream Video (Build a Tribute Page)](https://www.youtube.com/watch?v=ROf_BXRXOxE)
+3. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1113388790968659968)
+4. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1113416503662206978)
+5. [Twitter Post #3](https://twitter.com/DeadmanoCodes/status/1113439722792263680)
+6. [Twitter Post #4](https://twitter.com/DeadmanoCodes/status/1113523629638193152)
