@@ -44,3 +44,18 @@
 4. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1113416503662206978)
 5. [Twitter Post #3](https://twitter.com/DeadmanoCodes/status/1113439722792263680)
 6. [Twitter Post #4](https://twitter.com/DeadmanoCodes/status/1113523629638193152)
+
+### Day 4: April 4, Thursday
+
+**Today's Progress**: I added the final touches to the tribute page, which is now complete!
+
+**Time Spent**: 1 hour 43 minutes.
+
+**Thoughts** I realised that the procrastination I was facing was in part due to the lack of skills I had when it came to what I actually envisioned in my mind for this project. There's so much I wanted to do, so much I wanted to add, but I felt I wasn't really able to comfortably achieve them. So instead of spending hours hacking pieces of code together, I decided to finish off things as best as I could, knowing that the main priority was to pass the 10 tests, which had already been passed yesterday. I improved upon several parts of the design, adding minor things like shadows to the text, borders to section off the biography, and put a bit of effort into having it responsive. All in all, I am happy with the outcome, given my limited experience, and no doubt I'll be able to look back on this in the future and realise how much more I can improve upon on it. It's like life, you learn new things, and you apply them as you go! So that's one project done and dusted, bring on the rest!
+
+**Link(s) to work**
+1. [YouTube Livestream Video (Finishing Up The Tribute Page)](https://www.youtube.com/watch?v=qC5YrxnW4RA)
+2. [Tribute Page on CodePen](https://codepen.io/Deadmano/pen/qwOzKB)
+3. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1113796700437659648)
+4. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1113841254104801281)
+5. [Twitter Post #3](https://twitter.com/DeadmanoCodes/status/1113869976472096769)
