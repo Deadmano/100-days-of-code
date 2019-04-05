@@ -59,3 +59,17 @@
 3. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1113796700437659648)
 4. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1113841254104801281)
 5. [Twitter Post #3](https://twitter.com/DeadmanoCodes/status/1113869976472096769)
+
+### Day 5: April 5, Friday
+
+**Today's Progress**: I completed the "Build a Survey Form" web design project from freeCodeCamp!
+
+**Time Spent**: 3 hours 48 minutes.
+
+**Thoughts** Today went way better than yesterday! I felt way more confident as I was setting things up, knowing exactly what I wanted to do, and how I was going to do it. I believe the last two days working on my very first project helped me grasp the basics and expand upon it further, as I feel I accomplished way more in less amount of time, finishing up AND polishing the project in a single day! I worked on new ideas I had never done before but I thought might look cool, so a lot of experimenting, as well as trial and error, took place. All in all, I am actually happy with the outcome and I feel I am making progress. I'm somewhat nervous for the next project which will be to build a product landing page, as I feel that will require a bit more design work than simple forms, but we'll see how it goes; if anything it will give me some extra pointers that will most likely come in handy in future projects!
+
+**Link(s) to work**
+1. [YouTube Livestream Video (Build a Survey Form)](https://www.youtube.com/watch?v=EhzVLxHyOZA)
+2. [Survey Form on CodePen](https://codepen.io/Deadmano/pen/pBymvm)
+3. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1114121550377177089)
+4. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1114182322490880000)
