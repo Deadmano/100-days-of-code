@@ -83,7 +83,7 @@
 **Thoughts** Today wasn't as bad as I expected! I jumped into the usual setting up of things such as centering the content on the page, putting it all into one big box to manipulate with CSS, etc. I managed to get 14 of the 16 required tests to complete in the short time I had, and even got to working with a flexbox which usually gives me a headache and a half! The flexbox worked quite well so far, I managed to seperate the header and the nav links, even incorporating Font Awesome into the mix to use for my mock-up companies logo! All in all I am happy with the progress so far, and definitely starting to feel that the more I build, the easier it gets! Tomorrow I plan to flesh out the design a bit more and hopefully resolve the flexbox issues I was having! I've decided that weekends I will try to only do the bare minimum of an hour a day, so as to give myself some time to actually relax and recover before the no doubt hectic week ahead.
 
 **Link(s) to work**
-1. [YouTube Livestream Video (Build a Survey Form)](https://www.youtube.com/watch?v=UTINYsowHH8)
+1. [YouTube Livestream Video (Build a Product Landing Page)](https://www.youtube.com/watch?v=UTINYsowHH8)
 2. [Product Landing Page on CodePen](https://codepen.io/Deadmano/pen/vMKjbg)
 3. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1114466421910724608)
 4. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1114475715708301312)
