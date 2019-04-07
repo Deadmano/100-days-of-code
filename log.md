@@ -87,3 +87,17 @@
 2. [Product Landing Page on CodePen](https://codepen.io/Deadmano/pen/vMKjbg)
 3. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1114466421910724608)
 4. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1114475715708301312)
+
+
+### Day 7: April 7, Sunday
+
+**Today's Progress**: I continued working on the "Build a Product Landing Page" web design project from freeCodeCamp!
+
+**Time Spent**: 2 hours 57 minutes.
+
+**Thoughts** Today was pretty exciting! I got all the content filled out, and I began to work on styling the HTML. I feel that I am slowly starting to understand CSS Flexbox, as I managed to pretty much put together the landing page alone using it! I also got some helpful tips from chat that I implemented, such as smooth scrolling for the anchor links and having the nav-bar fixed to the left and right side of the page, using Flexbox's `justify-content: space-between` property! I'm really starting to get into and enjoy this front-end stuff, though still struggling a bit with the creative design side! I realise that I could finish up these projects way sooner, but I put the effort into fleshing them out with actual content instead of placeholder stuff like Lorem Ipsum, as I feel it just gives it a unique touch and makes me feel like I am creating something that could be actually used. What better way to learn than create it, right?!
+
+**Link(s) to work**
+1. [YouTube Livestream Video (Build a Product Landing Page - Day 2](https://www.youtube.com/watch?v=EyCu34DfBIU)
+2. [Product Landing Page on CodePen](https://codepen.io/Deadmano/pen/vMKjbg)
+3. [Twitter Post](https://twitter.com/DeadmanoCodes/status/1114923263371694081)
