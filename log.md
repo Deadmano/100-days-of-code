@@ -98,6 +98,22 @@
 **Thoughts** Today was pretty exciting! I got all the content filled out, and I began to work on styling the HTML. I feel that I am slowly starting to understand CSS Flexbox, as I managed to pretty much put together the landing page alone using it! I also got some helpful tips from chat that I implemented, such as smooth scrolling for the anchor links and having the nav-bar fixed to the left and right side of the page, using Flexbox's `justify-content: space-between` property! I'm really starting to get into and enjoy this front-end stuff, though still struggling a bit with the creative design side! I realise that I could finish up these projects way sooner, but I put the effort into fleshing them out with actual content instead of placeholder stuff like Lorem Ipsum, as I feel it just gives it a unique touch and makes me feel like I am creating something that could be actually used. What better way to learn than create it, right?!
 
 **Link(s) to work**
-1. [YouTube Livestream Video (Build a Product Landing Page - Day 2](https://www.youtube.com/watch?v=EyCu34DfBIU)
+1. [YouTube Livestream Video (Build a Product Landing Page - Day 2)](https://www.youtube.com/watch?v=MEOu_WC3_AA)
 2. [Product Landing Page on CodePen](https://codepen.io/Deadmano/pen/vMKjbg)
 3. [Twitter Post](https://twitter.com/DeadmanoCodes/status/1114923263371694081)
+
+### Day 8: April 8, Monday
+
+**Today's Progress**: I completed the "Build a Product Landing Page" web design project from freeCodeCamp!
+
+**Time Spent**: 4 hours 39 minutes.
+
+**Thoughts** Today was absolutely incredible, as I feel I learnt so much! I honestly feel I went all out, pushing my CSS knowledge to the absolute maximum. I managed to make a ton of tweaks to the page thanks to media queries, ensuring the content scales nicely for smaller viewports. I also took the time to add in actual graphics and content that makes sense, fleshing it out into a fully-fledged video game studio that outsources their talents! Looking back on day 1 and day 2 compared to today is honestly like night and day for me, and I still find it hard to believe that I managed to do that. It makes me feel good and motivates me for the last two projects that are coming up. Now I actually have something to fill up the portfolio project with! I'd also like to make a note of how incredible it is to have the community come out and be a part of the process on my livestreams, as I am both able to learn from them, as well as help out where I can when asked questions. That, to me, just seals the deal. My goal is to complete all FCC projects in 10 days, here's to hoping I can manage!
+
+**Link(s) to work**
+1. [YouTube Livestream Video (Build a Product Landing Page - Day 3)](https://www.youtube.com/watch?v=EyCu34DfBIU)
+2. [Product Landing Page on CodePen](https://codepen.io/Deadmano/pen/vMKjbg)
+3. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1115194740163665920)
+4. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1115273590826524672)
+5. [Twitter Post #3](https://twitter.com/DeadmanoCodes/status/1115274187877310464)
+6. [Twitter Post #4](https://twitter.com/DeadmanoCodes/status/1115277178156011520)
