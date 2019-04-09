@@ -117,3 +117,20 @@
 4. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1115273590826524672)
 5. [Twitter Post #3](https://twitter.com/DeadmanoCodes/status/1115274187877310464)
 6. [Twitter Post #4](https://twitter.com/DeadmanoCodes/status/1115277178156011520)
+
+
+### Day 9: April 9, Tuesday
+
+**Today's Progress**: I completed the "Build a Technical Documentation Page" web design project from freeCodeCamp!
+
+**Time Spent**: 2 hours 26 minutes (morning) and 5 hours 4 minutes (evening). 7 hours 30 minutes total.
+
+**Thoughts** I don't think I've worked this hard on a project, as consistently, as I did today! So much effort went into this project, and 3 hours of it went into working on a way to show/hide the elements of the navbar for the technical documentation links, which turned out pretty awesome in the end! I'll flesh this out a bit more if I get a chance tomorrow, I just wanted to be able to post before midnight so it still counts as an update for day 9, as I've literally been busy right until the very end!
+
+**Link(s) to work**
+1. [YouTube Livestream Video (Build a Technical Documentation Page - Morning)](https://www.youtube.com/watch?v=UaXn64ps9-w)
+2. [YouTube Livestream Video (Build a Technical Documentation Page - Evening #1)](https://www.youtube.com/watch?v=EWjhLmJaCjM)
+3. [YouTube Livestream Video (Build a Technical Documentation Page - Evening #2)](https://www.youtube.com/watch?v=ybqMFngcfOo)
+4. [Technical Documentation Page on CodePen](https://codepen.io/Deadmano/pen/Nmbmmj)
+5. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1115522678096527361)
+6. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1115637145480368128)
