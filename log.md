@@ -134,3 +134,18 @@
 4. [Technical Documentation Page on CodePen](https://codepen.io/Deadmano/pen/Nmbmmj)
 5. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1115522678096527361)
 6. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1115637145480368128)
+
+
+### Day 10: April 10, Wednesday
+
+**Today's Progress**: I completed the "Build a Personal Portfolio Webpage" web design project from freeCodeCamp!
+
+**Time Spent**: 9 hours 53 minutes.
+
+**Thoughts** I'm actually at a loss for words... I spent almost 10 hours working on this portfolio, trying new things I have never done before, animating a menu, having my intro section of pure text be animated, working on responsive grids, and so much more that has been lost on me as I literally did a livestream for just shy of 10 hours, straight! This due to the fact that I set myself a goal that I'd want to gain the Responsive Web Design certificate by day 10! In the last hour of the day I had only the intro section and part of the projects section ready, and I had to pretty much rush the rest and add filler content so I at least have something presentable. I still plan to flesh it out and add things as I gain more experience, but the most important part here is that I actually passed all the tests! I'll have to update this section and the previous one if I get a chance, as, once again, I'm pressed for time to post to this log before the next day.
+
+**Link(s) to work**
+1. [YouTube Livestream Video (Build a Personal Portfolio Webpage)](https://www.youtube.com/watch?v=0ZsHv9IN9RE)
+4. [Personal Portfolio Webpage on CodePen](https://codepen.io/Deadmano/pen/PgpVQG)
+5. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1115941243329163265)
+6. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1115637145480368128)
