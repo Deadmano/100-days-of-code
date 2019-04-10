@@ -148,4 +148,4 @@
 1. [YouTube Livestream Video (Build a Personal Portfolio Webpage)](https://www.youtube.com/watch?v=0ZsHv9IN9RE)
 4. [Personal Portfolio Webpage on CodePen](https://codepen.io/Deadmano/pen/PgpVQG)
 5. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1115941243329163265)
-6. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1115637145480368128)
+6. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1115996755047456768)
