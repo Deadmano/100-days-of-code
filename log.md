@@ -164,3 +164,15 @@
 2. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #1 - Evening)](https://www.youtube.com/watch?v=J68lKUJBn18)
 3. [Personal Portfolio Webpage on CodePen](https://codepen.io/Deadmano/pen/PgpVQG)
 4. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1116413017732915200)
+
+### Day 12: April 12, Friday
+
+**Today's Progress**: I did many challenges from the "Basic JavaScript" section on freeCodeCamp!
+
+**Time Spent**: 3 hours 14 minutes.
+
+**Thoughts**: So the JavaScript challenges were quite interesting, albeit a bit difficult in certain parts, especially because I would often get tripped up reacquainting myself with JavaScript formatting as I am still used to the previous language I was working on for about 2 years; Papyrus. All in all, I can't wait to get through the sections so I can start working on projects and honing my skills! The object prototypes section is definitely something that fascinates me and I can't wait to pick it back up tomorrow!
+
+**Link(s) to work**
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #2)](https://www.youtube.com/watch?v=Da83FxJRfDE)
+2. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1116670012998258688)
