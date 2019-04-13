@@ -176,3 +176,16 @@
 **Link(s) to work**
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #2)](https://www.youtube.com/watch?v=Da83FxJRfDE)
 2. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1116670012998258688)
+
+### Day 13: April 13, Saturday
+
+**Today's Progress**: I struggled through the sections of JavaScript objects from freeCodeCamp!
+
+**Time Spent**: 1 hour 2 minutes.
+
+**Thoughts**: Today was honestly one of the hardest days in this challenge thus far! I was slowly making progress, but once I got to the part where I had to create a function that handles different parameters that had to edit an object's array with nested arrays I felt completely overwhelmed! I had to end up actually ending things mid-way through the challenge as I had to get ready for an event I was attending. On the plus side, I did learn that JSON stands for "JavaScript Object Notation", which I had no idea of prior to this! I'm positive that I'll be able to tackle the challenge tomorrow, but I feel that I also need to allow myself some time to unwind and relax as I've been giving my all into these challenges and projects the past 13 days without any real respite.
+
+**Link(s) to work**
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #3)](https://www.youtube.com/watch?v=QGEKzoBB8Ao)
+2. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1117028482662400001)
+3. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1117044147293249536)
