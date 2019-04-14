@@ -149,7 +149,7 @@
 2. [Personal Portfolio Webpage on CodePen](https://codepen.io/Deadmano/pen/PgpVQG)
 3. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1115941243329163265)
 4. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1115996755047456768)
-5. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1116106158417301505)
+5. [Twitter Post #3](https://twitter.com/DeadmanoCodes/status/1116106158417301505)
 
 ### Day 11: April 11, Thursday
 
@@ -188,4 +188,18 @@
 **Link(s) to work**
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #3)](https://www.youtube.com/watch?v=QGEKzoBB8Ao)
 2. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1117028482662400001)
-3. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1117044147293249536)
+3. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1117044147293249536)
+
+
+### Day 14: April 14, Sunday
+
+**Today's Progress**: Even more struggling through JavaScript objects from freeCodeCamp!
+
+**Time Spent**: 3 hours 28 minutes.
+
+**Thoughts**: Just when I thought yesterday was hard... Wow! These JavaScript objects seriously don't mess around! I'm not sure if it is due to the fact of clearing each section without doing revision during the freeCodeCamp modules, or if too much information is being crammed in to my head at once, but I am finding this stuff incredibly difficult! I mean, I do manage, but it takes me significantly longer, and the examples you are given don't quite prepare you for what comes next as often times you need a combination of several previous modules to complete the tasks given. I might have to take things a bit slower and specifically cover JavaScript objects until I feel comfortable, as right now that is the main thing; accessing and adding information to objects and arrays in objects. Other than that, I am still loving it, but the pace is definitely slowing down, at least for this specific section. I feel things will get better once I complete the section and start working on projects, as previously working on projects for the Responsive Web Design section of freeCodeCamp gave me far more exposure and experience than the modules did, as there is a lot of hand-holding by being shown actual examples and then basically copying that example more or less, and once you pass that point you move on to something completely different until later on where you need to now recall all prior modules which you only really covered once.
+
+**Link(s) to work**
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #4)](https://www.youtube.com/watch?v=xb84AWTRaZc)
+2. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1117475984528347144)
+3. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1117532426161532928)
