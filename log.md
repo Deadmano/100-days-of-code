@@ -203,3 +203,23 @@
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #4)](https://www.youtube.com/watch?v=xb84AWTRaZc)
 2. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1117475984528347144)
 3. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1117532426161532928)
+
+
+### Day 15: April 15, Monday
+
+**Today's Progress**: Completed "Basic JavaScript" and began on the ES6 section from freeCodeCamp!
+
+**Time Spent**: 27 minutes (Basic JavaScript) and 4 hours 7 minutes (ES6). 4 hours 34 minutes total.
+
+**Thoughts**: I decided to take some time to go through JavaScript objects to better understand them, especially on the parts I was struggling on, and it made a world of a difference as I managed to grasp many different things such as the `.write()` part of `Document` being a method of the `Document` object! Besides having gone through the entire "Basic JavaScript" section of freeCodeCamp, I feel that so much progress has been made, especially now that I've started the ES6 section and learnt incredible things along the way, such as being able to have multiple `if/else if/else` statements on a single line using the ternary operator, as well as also having functions on a single line, that support parameters, thanks to arrow functions! This changes everything and truly makes me excited for the language and the possibilities thereof! There were still parts I struggled on, but I feel that is due to certain parts of freeCodeCamp skipping out on information, such as the use of the `map()` method that wasn't really covered in the ES6 module I was working on. A quick search here and there, as well as help from the friendly people in my livestream chat, and all was well again! Looking forward to what new and exciting things ES6 brings to the table!
+
+**Link(s) to work**
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #5)](https://www.youtube.com/watch?v=MEAn2LmvK4M)
+2. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #6)](https://www.youtube.com/watch?v=TZSnEqjnYS8)
+3. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1117781556188389377)
+4. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1117792775456612352)
+5. [Twitter Post #3](https://twitter.com/DeadmanoCodes/status/1117817593300168704)
+6. [Twitter Post #4](https://twitter.com/DeadmanoCodes/status/1117852238305583107)
+7. [Twitter Post #5](https://twitter.com/DeadmanoCodes/status/1117888772983672832)
+
+
