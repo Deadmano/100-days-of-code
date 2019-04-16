@@ -222,4 +222,14 @@
 6. [Twitter Post #4](https://twitter.com/DeadmanoCodes/status/1117852238305583107)
 7. [Twitter Post #5](https://twitter.com/DeadmanoCodes/status/1117888772983672832)
 
+### Day 16: April 16, Monday
 
+**Today's Progress**: Continued through the ES6 section from freeCodeCamp!
+
+**Time Spent**: 2 hours 55 minutes.
+
+**Thoughts**: And today it was back to struggling as I learnt about destructuring! The initial examples were going well, but later on it got progressively more difficult! Coupled with template literals in the one example and I felt overwhelmed once again! Fun times for sure, and I'll definitely have to go back to cover them both, but I'm genuinely excited to be making progress and referring back to previous things I have learnt to make use of them in the solution. I'm slowly coming to the end of the ES6 section, and the RegEx section has me somewhat fearful! We'll see how things go! 
+
+**Link(s) to work**
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #7)](https://youtu.be/TmdlFmTM_q8)
+2. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1118202788683689984)
