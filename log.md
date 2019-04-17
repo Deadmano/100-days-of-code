@@ -222,7 +222,7 @@
 6. [Twitter Post #4](https://twitter.com/DeadmanoCodes/status/1117852238305583107)
 7. [Twitter Post #5](https://twitter.com/DeadmanoCodes/status/1117888772983672832)
 
-### Day 16: April 16, Monday
+### Day 16: April 16, Tuesday
 
 **Today's Progress**: Continued through the ES6 section from freeCodeCamp!
 
@@ -231,5 +231,18 @@
 **Thoughts**: And today it was back to struggling as I learnt about destructuring! The initial examples were going well, but later on it got progressively more difficult! Coupled with template literals in the one example and I felt overwhelmed once again! Fun times for sure, and I'll definitely have to go back to cover them both, but I'm genuinely excited to be making progress and referring back to previous things I have learnt to make use of them in the solution. I'm slowly coming to the end of the ES6 section, and the RegEx section has me somewhat fearful! We'll see how things go! 
 
 **Link(s) to work**
-1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #7)](https://youtu.be/TmdlFmTM_q8)
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #7)](https://www.youtube.com/watch?v=TmdlFmTM_q8)
 2. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1118202788683689984)
+
+### Day 17: April 17, Wednesday
+
+**Today's Progress**: Finally completed the ES6 section from freeCodeCamp!
+
+**Time Spent**: 3 hours 37 minutes.
+
+**Thoughts**: I had quite the exciting time figuring out constructors and how classes work in ES6! Definitely makes things way more easier. On top of that, getters and setters were covered, which makes a ton of sense in terms of handling user data, which will come in pretty handy in some projects I have in mind! On top of that, the regulars on my stream kept me going, and I honestly don't know how I'd manage without them, not just for their feedback, but also the banter we have as we go through the sections. The ES6 section was honestly all over the place, covering things such as import, which is an upgrade from include() that we haven't even covered yet! But thankfully the regulars were there to help along the way. Tomorrow is regular expressions, and I have a feeling it isn't going to go that well considering I have pretty much no experience when it comes to using them.
+
+**Link(s) to work**
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #8)](https://www.youtube.com/watch?v=hXaw1B5_4uI)
+2. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1118530261648584704)
+
