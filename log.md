@@ -246,3 +246,16 @@
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #8)](https://www.youtube.com/watch?v=hXaw1B5_4uI)
 2. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1118530261648584704)
 
+### Day 18: April 18, Thursday
+
+**Today's Progress**: I completed the Regular Expressions section from freeCodeCamp!
+
+**Time Spent**: 3 hours 57 minutes.
+
+**Thoughts**: So I was honestly expecting the RegEx stuff to be WAY harder than what it actually ended up being... I found myself being able to manage through 3/4 of the section before the last bit started becoming a bit of a guess-fest as I was trying to figure out what expression did what exactly in combination with several others including quantifiers! All in all, I can see how it would be useful in certain situations and I am glad that I at least have some kind of basic understanding to apply should the need ever arise. Once you understand the basic concepts it just becomes a matter of repetition until it sinks in, and I find the best source of quality repetition is through projects. Who knows, perhaps I'll include some RegEx in a future project?! Tomorrow is debugging! I'll be covering the "Debugging" section of freeCodeCamp and hopefully also manage to get to "Basic Data Structures" as the debugging shouldn't take too long! Progress is being made, and I'm getting closer to those projects; I can't wait!
+
+**Link(s) to work**
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #9)](https://www.youtube.com/watch?v=ZHDvP2IIx_Q)
+3. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1118856019373907968)
+4. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1118876070382592001)
+5. [Twitter Post #3](https://twitter.com/PhillipStolic/status/1118955527625748480)
