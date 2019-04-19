@@ -256,6 +256,18 @@
 
 **Link(s) to work**
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #9)](https://www.youtube.com/watch?v=ZHDvP2IIx_Q)
-3. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1118856019373907968)
-4. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1118876070382592001)
-5. [Twitter Post #3](https://twitter.com/PhillipStolic/status/1118955527625748480)
+2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1118856019373907968)
+3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1118876070382592001)
+4. [Twitter Post #3](https://twitter.com/PhillipStolic/status/1118955527625748480)
+
+### Day 19: April 19, Friday
+
+**Today's Progress**: Completed the "Debugging" section and began "Basic Data Structures" from freeCodeCamp!
+
+**Time Spent**: 1 hour 56 minutes.
+
+**Thoughts**: Today I managed to cover the debugging section from freeCodeCamp, though I was a little disappointed as I got it mixed up with catching exceptions/errors etc. so what was covered was stuff I was already familiar with and used frequently. Though it was a great refresher to say the least! Moving on briefly from the debugging section put me in the Basic Data Structures section which covered all the interesting things you can do to arrays. I managed to expand my knowledge on existing topics, as well as learn new methods such as splice() and slice() which are super useful! I feel the most exciting part was using the spread operator to actually copy a reference of an array! Let's see what tomorrow brings!
+
+**Link(s) to work**
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #10)](https://www.youtube.com/watch?v=99CzeYR944U)
+2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1119231258217918464)
