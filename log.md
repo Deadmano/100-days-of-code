@@ -271,3 +271,16 @@
 **Link(s) to work**
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #10)](https://www.youtube.com/watch?v=99CzeYR944U)
 2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1119231258217918464)
+
+### Day 20: April 20, Saturday
+
+**Today's Progress**: Completed the "Basic Data Structures" section from freeCodeCamp!
+
+**Time Spent**: 2 hours 28 minutes.
+
+**Thoughts**: So I finally got through the Basic Data Structures section of freeCodeCamp, which put a lot of perspective into place for all the gaps that the ES6 section failed to cover! Not only did I cover all the amazing things one can do with arrays, but even more so for objects, which are far easier to work with due to not having specific indexes to work with, but rather `key: value` pairs! Tomorrow I'll be starting with the Basic Algorithm Scripting which should help me put to tests everything that has been covered thus far! Looking back, I'm amazed at how much I've managed to take in, in just 20 days, and at the same time I also can't believe it has only been 20 days! At this rate I'm wondering if I'll be able to complete the entire curriculum in the 100 days? We'll have to see, but I'm aiming for it, as each day seems to get easier and easier the more I learn!
+
+**Link(s) to work**
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #11)](https://www.youtube.com/watch?v=R9ELjo7v18M)
+2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1119663578418749442)
+3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1119715469223714818)
