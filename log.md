@@ -10,8 +10,8 @@
 
 **Link(s) to work**
 1. [YouTube Livestream Video](https://www.youtube.com/watch?v=tEy0cRqxFzw)
-2. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1112731410715025408)
-3. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1112744803228368897)
+2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1112731410715025408)
+3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1112744803228368897)
 
 ### Day 2: April 2, Tuesday
 
@@ -24,10 +24,10 @@
 **Link(s) to work**
 1. [YouTube Livestream Video (Morning)](https://www.youtube.com/watch?v=qNDK18lz_NY)
 2. [YouTube Livestream Video (Evening)](https://www.youtube.com/watch?v=aoWVzCXiTlk)
-3. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1113009644782448640)
-4. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1113018310092718080)
-5. [Twitter Post #3](https://twitter.com/DeadmanoCodes/status/1113163849090383872)
-6. [Twitter Post #4](https://twitter.com/DeadmanoCodes/status/1113164631093186561)
+3. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1113009644782448640)
+4. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1113018310092718080)
+5. [Twitter Post #3](https://twitter.com/PhillipStolic/status/1113163849090383872)
+6. [Twitter Post #4](https://twitter.com/PhillipStolic/status/1113164631093186561)
 
 ### Day 3: April 3, Wednesday
 
@@ -40,10 +40,10 @@
 **Link(s) to work**
 1. [YouTube Livestream Video (CSS Flexbox/Grid)](https://www.youtube.com/watch?v=sDvQqcc5944)
 2. [YouTube Livestream Video (Build a Tribute Page)](https://www.youtube.com/watch?v=ROf_BXRXOxE)
-3. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1113388790968659968)
-4. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1113416503662206978)
-5. [Twitter Post #3](https://twitter.com/DeadmanoCodes/status/1113439722792263680)
-6. [Twitter Post #4](https://twitter.com/DeadmanoCodes/status/1113523629638193152)
+3. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1113388790968659968)
+4. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1113416503662206978)
+5. [Twitter Post #3](https://twitter.com/PhillipStolic/status/1113439722792263680)
+6. [Twitter Post #4](https://twitter.com/PhillipStolic/status/1113523629638193152)
 
 ### Day 4: April 4, Thursday
 
@@ -56,9 +56,9 @@
 **Link(s) to work**
 1. [YouTube Livestream Video (Finishing Up The Tribute Page)](https://www.youtube.com/watch?v=qC5YrxnW4RA)
 2. [Tribute Page on CodePen](https://codepen.io/Deadmano/pen/qwOzKB)
-3. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1113796700437659648)
-4. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1113841254104801281)
-5. [Twitter Post #3](https://twitter.com/DeadmanoCodes/status/1113869976472096769)
+3. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1113796700437659648)
+4. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1113841254104801281)
+5. [Twitter Post #3](https://twitter.com/PhillipStolic/status/1113869976472096769)
 
 ### Day 5: April 5, Friday
 
@@ -71,8 +71,8 @@
 **Link(s) to work**
 1. [YouTube Livestream Video (Build a Survey Form)](https://www.youtube.com/watch?v=EhzVLxHyOZA)
 2. [Survey Form on CodePen](https://codepen.io/Deadmano/pen/pBymvm)
-3. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1114121550377177089)
-4. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1114182322490880000)
+3. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1114121550377177089)
+4. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1114182322490880000)
 
 ### Day 6: April 6, Saturday
 
@@ -85,8 +85,8 @@
 **Link(s) to work**
 1. [YouTube Livestream Video (Build a Product Landing Page)](https://www.youtube.com/watch?v=UTINYsowHH8)
 2. [Product Landing Page on CodePen](https://codepen.io/Deadmano/pen/vMKjbg)
-3. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1114466421910724608)
-4. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1114475715708301312)
+3. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1114466421910724608)
+4. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1114475715708301312)
 
 
 ### Day 7: April 7, Sunday
@@ -100,7 +100,7 @@
 **Link(s) to work**
 1. [YouTube Livestream Video (Build a Product Landing Page - Day 2)](https://www.youtube.com/watch?v=MEOu_WC3_AA)
 2. [Product Landing Page on CodePen](https://codepen.io/Deadmano/pen/vMKjbg)
-3. [Twitter Post](https://twitter.com/DeadmanoCodes/status/1114923263371694081)
+3. [Twitter Post](https://twitter.com/PhillipStolic/status/1114923263371694081)
 
 ### Day 8: April 8, Monday
 
@@ -113,10 +113,10 @@
 **Link(s) to work**
 1. [YouTube Livestream Video (Build a Product Landing Page - Day 3)](https://www.youtube.com/watch?v=EyCu34DfBIU)
 2. [Product Landing Page on CodePen](https://codepen.io/Deadmano/pen/vMKjbg)
-3. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1115194740163665920)
-4. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1115273590826524672)
-5. [Twitter Post #3](https://twitter.com/DeadmanoCodes/status/1115274187877310464)
-6. [Twitter Post #4](https://twitter.com/DeadmanoCodes/status/1115277178156011520)
+3. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1115194740163665920)
+4. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1115273590826524672)
+5. [Twitter Post #3](https://twitter.com/PhillipStolic/status/1115274187877310464)
+6. [Twitter Post #4](https://twitter.com/PhillipStolic/status/1115277178156011520)
 
 
 ### Day 9: April 9, Tuesday
@@ -132,8 +132,8 @@
 2. [YouTube Livestream Video (Build a Technical Documentation Page - Evening #1)](https://www.youtube.com/watch?v=EWjhLmJaCjM)
 3. [YouTube Livestream Video (Build a Technical Documentation Page - Evening #2)](https://www.youtube.com/watch?v=ybqMFngcfOo)
 4. [Technical Documentation Page on CodePen](https://codepen.io/Deadmano/pen/Nmbmmj)
-5. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1115522678096527361)
-6. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1115637145480368128)
+5. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1115522678096527361)
+6. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1115637145480368128)
 
 
 ### Day 10: April 10, Wednesday
@@ -147,9 +147,9 @@
 **Link(s) to work**
 1. [YouTube Livestream Video (Build a Personal Portfolio Webpage)](https://www.youtube.com/watch?v=0ZsHv9IN9RE)
 2. [Personal Portfolio Webpage on CodePen](https://codepen.io/Deadmano/pen/PgpVQG)
-3. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1115941243329163265)
-4. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1115996755047456768)
-5. [Twitter Post #3](https://twitter.com/DeadmanoCodes/status/1116106158417301505)
+3. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1115941243329163265)
+4. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1115996755047456768)
+5. [Twitter Post #3](https://twitter.com/PhillipStolic/status/1116106158417301505)
 
 ### Day 11: April 11, Thursday
 
@@ -163,7 +163,7 @@
 1. [YouTube Livestream Video (Polishing Off The Portfolio Webpage - Afternoon)](https://www.youtube.com/watch?v=LBW0ZvZy2Xs)
 2. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #1 - Evening)](https://www.youtube.com/watch?v=J68lKUJBn18)
 3. [Personal Portfolio Webpage on CodePen](https://codepen.io/Deadmano/pen/PgpVQG)
-4. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1116413017732915200)
+4. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1116413017732915200)
 
 ### Day 12: April 12, Friday
 
@@ -175,7 +175,7 @@
 
 **Link(s) to work**
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #2)](https://www.youtube.com/watch?v=Da83FxJRfDE)
-2. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1116670012998258688)
+2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1116670012998258688)
 
 ### Day 13: April 13, Saturday
 
@@ -187,8 +187,8 @@
 
 **Link(s) to work**
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #3)](https://www.youtube.com/watch?v=QGEKzoBB8Ao)
-2. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1117028482662400001)
-3. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1117044147293249536)
+2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1117028482662400001)
+3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1117044147293249536)
 
 
 ### Day 14: April 14, Sunday
@@ -201,8 +201,8 @@
 
 **Link(s) to work**
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #4)](https://www.youtube.com/watch?v=xb84AWTRaZc)
-2. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1117475984528347144)
-3. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1117532426161532928)
+2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1117475984528347144)
+3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1117532426161532928)
 
 
 ### Day 15: April 15, Monday
@@ -216,11 +216,11 @@
 **Link(s) to work**
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #5)](https://www.youtube.com/watch?v=MEAn2LmvK4M)
 2. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #6)](https://www.youtube.com/watch?v=TZSnEqjnYS8)
-3. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1117781556188389377)
-4. [Twitter Post #2](https://twitter.com/DeadmanoCodes/status/1117792775456612352)
-5. [Twitter Post #3](https://twitter.com/DeadmanoCodes/status/1117817593300168704)
-6. [Twitter Post #4](https://twitter.com/DeadmanoCodes/status/1117852238305583107)
-7. [Twitter Post #5](https://twitter.com/DeadmanoCodes/status/1117888772983672832)
+3. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1117781556188389377)
+4. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1117792775456612352)
+5. [Twitter Post #3](https://twitter.com/PhillipStolic/status/1117817593300168704)
+6. [Twitter Post #4](https://twitter.com/PhillipStolic/status/1117852238305583107)
+7. [Twitter Post #5](https://twitter.com/PhillipStolic/status/1117888772983672832)
 
 ### Day 16: April 16, Tuesday
 
@@ -232,7 +232,7 @@
 
 **Link(s) to work**
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #7)](https://www.youtube.com/watch?v=TmdlFmTM_q8)
-2. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1118202788683689984)
+2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1118202788683689984)
 
 ### Day 17: April 17, Wednesday
 
@@ -244,7 +244,7 @@
 
 **Link(s) to work**
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #8)](https://www.youtube.com/watch?v=hXaw1B5_4uI)
-2. [Twitter Post #1](https://twitter.com/DeadmanoCodes/status/1118530261648584704)
+2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1118530261648584704)
 
 ### Day 18: April 18, Thursday
 
