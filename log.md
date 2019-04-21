@@ -284,3 +284,15 @@
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #11)](https://www.youtube.com/watch?v=R9ELjo7v18M)
 2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1119663578418749442)
 3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1119715469223714818)
+
+### Day 21: April 21, Sunday
+
+**Today's Progress**: Started on the "Basic Algorithm Scripting" section from freeCodeCamp!
+
+**Time Spent**: 3 hours 21 minutes.
+
+**Thoughts**: Today was honestly quite intense, as I had no idea just how "advanced" the "basic" algorithm scripting section would be! It really tested me to the extent of my abilities, and I found myself struggling several times, as most tasks were covering past sections that I hadn't really done much revision on. All in all, there was quite a bit of growth as I solved somewhat complex problems and even managed to refactor them thanks to the wonderful community in my stream chat! Tomorrow is another day, another chance to take in everything I have learnt and hopefully apply it better!
+
+**Link(s) to work**
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #12)](https://www.youtube.com/watch?v=A-FSPPdBc6k)
+2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1120032122683711492)
