@@ -296,3 +296,16 @@
 **Link(s) to work**
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #12)](https://www.youtube.com/watch?v=A-FSPPdBc6k)
 2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1120032122683711492)
+
+### Day 22: April 22, Monday
+
+**Today's Progress**: Made a ton of progress on the "Basic Algorithm Scripting" section from freeCodeCamp!
+
+**Time Spent**: 1 hour 33 minutes.
+
+**Thoughts**: I managed to do almost all of the challenges in the section, save for 3 as I was pressed for time. When I get back on later I plan to start working on a little web app project that will allow you to basically format your log, such as this one, by simply entering information in fields and generating an output that you can just copy and paste! Should save me quite a bit of time doing these, help me prevent any copy/paste errors, and hopefully help others save time as well!
+
+**Link(s) to work**
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #13)](https://www.youtube.com/watch?v=biMoeqBUBwI)
+2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1120319196263583744)
+
