@@ -309,3 +309,14 @@
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #13)](https://www.youtube.com/watch?v=biMoeqBUBwI)
 2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1120319196263583744)
 
+### Day 23: April 23, Tuesday
+
+**Today's Progress**: Completed the "Basic Algorithm Scripting" section and began "Object Oriented Programming" from freeCodeCamp!
+
+**Time Spent**: 3 hours 39 minutes.
+
+**Thoughts**: The rest of the basic algorithm scripting went well without any major hassles, allowing me to gracefully move onto the OOP section of freeCodeCamp which I was truly excited for! Not much time to finish this log, I'll have to update it tomorrow!
+
+**Link(s) to work**
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #14)](https://www.youtube.com/watch?v=YrCcvBiMWtY)
+2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1120692112763359232)
