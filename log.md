@@ -163,7 +163,7 @@
 1. [YouTube Livestream Video (Polishing Off The Portfolio Webpage - Afternoon)](https://www.youtube.com/watch?v=LBW0ZvZy2Xs)
 2. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #1 - Evening)](https://www.youtube.com/watch?v=J68lKUJBn18)
 3. [Personal Portfolio Webpage on CodePen](https://codepen.io/Deadmano/pen/PgpVQG)
-4. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1116413017732915200)
+4. [Twitter Post](https://twitter.com/PhillipStolic/status/1116413017732915200)
 
 ### Day 12: April 12, Friday
 
@@ -175,7 +175,7 @@
 
 **Link(s) to work**
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #2)](https://www.youtube.com/watch?v=Da83FxJRfDE)
-2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1116670012998258688)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1116670012998258688)
 
 ### Day 13: April 13, Saturday
 
@@ -232,7 +232,7 @@
 
 **Link(s) to work**
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #7)](https://www.youtube.com/watch?v=TmdlFmTM_q8)
-2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1118202788683689984)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1118202788683689984)
 
 ### Day 17: April 17, Wednesday
 
@@ -244,7 +244,7 @@
 
 **Link(s) to work**
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #8)](https://www.youtube.com/watch?v=hXaw1B5_4uI)
-2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1118530261648584704)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1118530261648584704)
 
 ### Day 18: April 18, Thursday
 
@@ -270,7 +270,7 @@
 
 **Link(s) to work**
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #10)](https://www.youtube.com/watch?v=99CzeYR944U)
-2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1119231258217918464)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1119231258217918464)
 
 ### Day 20: April 20, Saturday
 
@@ -295,28 +295,44 @@
 
 **Link(s) to work**
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #12)](https://www.youtube.com/watch?v=A-FSPPdBc6k)
-2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1120032122683711492)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1120032122683711492)
 
 ### Day 22: April 22, Monday
 
-**Today's Progress**: Made a ton of progress on the "Basic Algorithm Scripting" section from freeCodeCamp!
+**Today's Progress**: Made a ton of progress on the "Basic Algorithm Scripting" section from freeCodeCamp and begun working on my log formatter project!
 
-**Time Spent**: 1 hour 33 minutes.
+**Time Spent**: 1 hour 33 minutes (Basic Algorithm Scripting) and 3 hours 39 minutes (log formatter project). 5 hours 12 minutes total. 
 
-**Thoughts**: I managed to do almost all of the challenges in the section, save for 3 as I was pressed for time. When I get back on later I plan to start working on a little web app project that will allow you to basically format your log, such as this one, by simply entering information in fields and generating an output that you can just copy and paste! Should save me quite a bit of time doing these, help me prevent any copy/paste errors, and hopefully help others save time as well!
+**Thoughts**: I managed to do almost all of the challenges in the section, save for 3 as I was pressed for time. When I got back I started working on a little web app project that will allow you to basically format your log, such as this one, by simply entering information in fields and generating an output that you can just copy and paste! Should save me quite a bit of time doing these, help me prevent any copy/paste errors, and hopefully help others save time as well!
 
 **Link(s) to work**
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #13)](https://www.youtube.com/watch?v=biMoeqBUBwI)
-2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1120319196263583744)
+2. [YouTube Livestream Video (Building A Log Formatter #1)](https://www.youtube.com/watch?v=btxls09G-qE)
+3. [Twitter Post](https://twitter.com/PhillipStolic/status/1120319196263583744)
 
 ### Day 23: April 23, Tuesday
 
 **Today's Progress**: Completed the "Basic Algorithm Scripting" section and began "Object Oriented Programming" from freeCodeCamp!
 
-**Time Spent**: 3 hours 39 minutes.
+**Time Spent**: 3 hours 39 minutes (studying) and 3 hours 6 minutes (log formatter project). 6 hours 45 minutes total.
 
-**Thoughts**: The rest of the basic algorithm scripting went well without any major hassles, allowing me to gracefully move onto the OOP section of freeCodeCamp which I was truly excited for! Not much time to finish this log, I'll have to update it tomorrow!
+**Thoughts**: The rest of the basic algorithm scripting went well without any major hassles, allowing me to gracefully move onto the OOP section of freeCodeCamp which I was truly excited for! I also managed to work on the log formatter project for quite a bit, getting a lot of the logic sorted such as taking user input and displaying it back in an output area! I'm really happy with the progress thus far.
 
 **Link(s) to work**
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #14)](https://www.youtube.com/watch?v=YrCcvBiMWtY)
-2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1120692112763359232)
+2. [YouTube Livestream Video (Building A Log Formatter #2)](https://www.youtube.com/watch?v=neD9yX83QDs)
+3. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1120692112763359232)
+4. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1120811395719880706)
+
+### Day 24: April 24, Wednesday.
+
+**Today's Progress**: Continued with "Object Oriented Programming" from freeCodeCamp and worked on my log formatter!
+
+**Time Spent**: 1 hour 27 minutes (Object Oriented Programming) and 4 hours 10 minutes (log formatter project). 5 hours 37 minutes total.
+
+**Thoughts**: Today was pretty exciting as I honestly couldn't wait to begin working on my little project; the #100DaysOfCode log formatter! So I did just over an hour of studying on freeCodeCamp before switching to working on my project for over 4 hours! I made a ton of progress, and I felt that I could actually put the skills I had gained throughout the freeCodeCamp curriculum to the test! Today I had worked on adding the ability to remove and add new sections for user links, and it works flawlessly! The rest of the code has already been done, and all that is left is some input verification and then to pretty it all up before I get to share it with the world! Creating projects is really exciting and an amazing way to find your strengths as well as the areas you need to work on.
+
+**Links To Work**:
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #15)](https://www.youtube.com/watch?v=olvihjEZnTE)
+2. [YouTube Livestream Video (Building A Log Formatter #3)](https://www.youtube.com/watch?v=f8rLklQQ7SM)
+3. [Twitter Post](https://twitter.com/PhillipStolic/status/1121079966597357568)
