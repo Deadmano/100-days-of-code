@@ -336,3 +336,15 @@
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #15)](https://www.youtube.com/watch?v=olvihjEZnTE)
 2. [YouTube Livestream Video (Building A Log Formatter #3)](https://www.youtube.com/watch?v=f8rLklQQ7SM)
 3. [Twitter Post](https://twitter.com/PhillipStolic/status/1121079966597357568)
+
+### Day 25: April 25, Thursday.
+
+**Today's Progress**: I continued to work on the log formatter project.
+
+**Time Spent**: 3 hours 48 minutes.
+
+**Thoughts**: Today I decided to purely work on the log formatter project as I felt I was nearing completion and I wanted to get as much of it done as possible so that I could actually see if I could complete a project, from start to finish. I managed to resolve the few issues that I had with some of the output in the JavaScript function, in most part thanks to the wonderful community on my stream, and I also started to work on the styling on the overall page. The layout is definitely better than what it was yesterday, though I'm still on the fence about the colours. Nonetheless, progress is being made and I can't wait to finish this project up and share it with others!
+
+**Links To Work**: 
+1. [YouTube Livestream Video (Building A Log Formatter #4)](https://www.youtube.com/watch?v=4hMqwA6OIB4)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1121466121893363712)
