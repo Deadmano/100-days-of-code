@@ -348,3 +348,15 @@
 **Links To Work**: 
 1. [YouTube Livestream Video (Building A Log Formatter #4)](https://www.youtube.com/watch?v=4hMqwA6OIB4)
 2. [Twitter Post](https://twitter.com/PhillipStolic/status/1121466121893363712)
+
+### Day 26: April 26, Friday.
+
+**Today's Progress**: I spent several hours working on the log formatter again.
+
+**Time Spent**: 4 hours 34 minutes.
+
+**Thoughts**: Today I had wanted to work on some extra JavaScript functions, such as handling user input, but I got carried away with some of the design, and ended up completely redoing the layout starting from a mobile-first perspective which actually makes complete sense and allows you to expand from there on using media queries! While it may have felt like a bit of a backwards move to undo all of the styling I've done, it taught me a valuable lesson going forward, which'll no doubt save countless hours of my time! Amidst the styling I also managed to get in the first function of handling user input which successfully handles only taking in numerical values and filters out any other non-numbers! Tomorrow I'll most likely continue with the project as it nears completion; I can't wait!
+
+**Links To Work**: 
+1. [YouTube Livestream Video (Building A Log Formatter #5)](https://www.youtube.com/watch?v=Cu5iLT_pr0c)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1121849185106571265)
