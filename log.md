@@ -360,3 +360,15 @@
 **Links To Work**: 
 1. [YouTube Livestream Video (Building A Log Formatter #5)](https://www.youtube.com/watch?v=Cu5iLT_pr0c)
 2. [Twitter Post](https://twitter.com/PhillipStolic/status/1121849185106571265)
+
+### Day 27: April 27, Saturday.
+
+**Today's Progress**: Spent even more time working on the log formatter project!
+
+**Time Spent**: 3 hours 45 minutes.
+
+**Thoughts**: I was a bit late in starting my streaming/logging this as I spent the majority of my time offline working on my studies as well as some modding, so I at least got more than my hour in but I wanted to also stream to keep up with the consistency. The majority of the time spent working on the log formatter went to refactoring the existing format function to be neater and easier to read. The logic didn't flow and things were all over the place, so, hopefully by separating the logic in a more natural manner it'll be easier to understand and thus help me write better code in the future! I also learnt a ton of new things, especially with how to use `map` on an array to handle complex calculations; thanks once again to the wonderful streaming community!
+
+**Links To Work**:
+1. [YouTube Livestream Video (Building A Log Formatter #6)](https://youtu.be/mTCXCNIRFGA)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1122280512301752320)
