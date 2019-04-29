@@ -385,3 +385,17 @@
 1. [YouTube Livestream Video (Building A Log Formatter #7)](https://www.youtube.com/watch?v=hnrcnr_tWrY)
 2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1122527009668775937)
 3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1122712133978992642)
+
+### Day 29: April 29, Monday.
+
+**Today's Progress**: I added quite a bit of form validation to the log formatter.
+
+**Time Spent**: 3 hours 26 minutes (morning) and 3 hours 2 minutes (evening). 6 hours 28 minutes total.
+
+**Thoughts**: Today I spent a few hours in the early morning, as well as several hours in the evening, working on adding form validation to the log formatter, which took suprisingly longer than I expected due to having to take into account if a value is empty, if it is less than a specific value, or if the user entered something that they shouldn't have. All in all, most of the validation is done, and I even managed to add in a function to monitor the input of a field and if a user enters something that matches a regular expression, such as entering a URL in a Title field, they'll be notified! Now I just need to add a few minor things such as not outputting a log if the user skipped required fields, and then I can hopefully move onto the CSS styling. I say hopefully as things just seem to have a tendancy to crop up and before you know it I'm spending hours working on something else! But I'm forcing myself to focus and not add extra features else the project will never launch. Definitely feel an ETA for launch is this week; pushing for Wednesday.
+
+**Links To Work**:
+1. [YouTube Livestream Video (Building A Log Formatter #8) - Morning](https://www.youtube.com/watch?v=rdGWJYwptbU)
+2. [YouTube Livestream Video (Building A Log Formatter #9) - Evening](https://www.youtube.com/watch?v=K4cTumrbRLE)
+3. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1122712133978992642)
+4. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1122999505312464897)
