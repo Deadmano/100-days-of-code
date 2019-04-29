@@ -372,3 +372,16 @@
 **Links To Work**:
 1. [YouTube Livestream Video (Building A Log Formatter #6)](https://youtu.be/mTCXCNIRFGA)
 2. [Twitter Post](https://twitter.com/PhillipStolic/status/1122280512301752320)
+
+### Day 28: April 28, Sunday.
+
+**Today's Progress**: I spent as much time as I could working on the log formatter project again.
+
+**Time Spent**: 1 hour 12 minutes.
+
+**Thoughts**: While I didn't have as much time today, I at least managed to get in just over an hour of coding which I spent on improving the log formatter. I managed to refactor one of the functions and cut down the code from 13 lines to just 5, making it easier to maintain and read! If I can get into the habit of writing neat code and cutting down on repetition it'll help me immensely in the long run! The log formatter is taking up quite a bit of my time, but I feel it is a wonderful project to really test my capabilities and give it everything I've got. My plan going forward is to get the validation working and then release it on GitHub so that others may start using it as well, and then work on improvements from there on, taking any future feedback into account. I always have the fear of releasing something as I want it to be complete, however, I also tend to be a perfectionist and if I don't release something I may be stuck in an endless loop of adding things and no one is even able to use it in the interim! So I have to push myself to release something, and just deal with whatever needs to be dealt with as it happens!
+
+**Links To Work**:
+1. [YouTube Livestream Video (Building A Log Formatter #7)](https://www.youtube.com/watch?v=hnrcnr_tWrY)
+2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1122527009668775937)
+3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1122712133978992642)
