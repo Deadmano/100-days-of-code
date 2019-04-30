@@ -399,3 +399,17 @@
 2. [YouTube Livestream Video (Building A Log Formatter #9) - Evening](https://www.youtube.com/watch?v=K4cTumrbRLE)
 3. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1122712133978992642)
 4. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1122999505312464897)
+
+### Day 30: April 30, Tuesday.
+
+**Today's Progress**: I added the last touches to the form validation of the formatter and added a modal to display errors!
+
+**Time Spent**: 8 hours 4 minutes.
+
+**Thoughts**: I actually had a lot of fun with CSS today, even though that wasn't supposed to be the highlight, I ended up creating a modal with which to display errors in to users, as I couldn't think of a better way, other than displaying plain text which I felt wouldn't catch the eye of the user. The error modal only pops up when a user tries to format their input but there are errors. I also managed to finish up the rest of the form validation, properly this time, as I re-wrote several functions and refactored the rest to have a single function handle live user input, and another to handle validation once the form is submitted for formatting. As for issues, my stream cut out just over an hour before the end, so that is why there are 2 parts... I'm hoping I can wrap this project up tomorrow for a basic release, if I can get the last few bits of code ironed out and finish up with the CSS styling, as it's still pretty much a mobile-only app due to doing the design from scratch starting from the lowest resolution! I'm really excited with my progress and how much I've managed to achieve with this project, and I can't wait to get back to my studies on freeCodeCamp to be better prepared for future projects!
+
+**Links To Work**:
+1. [YouTube Livestream Video (Building A Log Formatter #9) - Part 1](https://www.youtube.com/watch?v=8t5-jfkNSDc)
+2. [YouTube Livestream Video (Building A Log Formatter #9) - Part 2](https://www.youtube.com/watch?v=eXJUkQEw8uE)
+3. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1123243733904973824)
+4. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1123371466723033088)
