@@ -413,3 +413,16 @@
 2. [YouTube Livestream Video (Building A Log Formatter #9) - Part 2](https://www.youtube.com/watch?v=eXJUkQEw8uE)
 3. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1123243733904973824)
 4. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1123371466723033088)
+
+### Day 31: May 1, Wednesday.
+
+**Today's Progress**: I ironed out the last bits of code and added responsive styling for the log formatter.
+
+**Time Spent**: 9 hours 15 minutes.
+
+**Thoughts**: I finally did it! Never have I been so excited to actually be done with something; purely because I thought that things would never end at the rate I was thinking of new and exciting things to add to the log formatter! But I did it, I added the last bits of code to ensure everything runs smoothly, and then I finished up the CSS styling and added support for several different devices ranging from various mobile devices and even including all major desktop monitor resolutions! I'm really happy with the outcome, and while there are quite a few changes and additions I'd like to add and make, that will have to wait for a future update. It was really hard breaking free from the mentality of wanting to add new things, but I had to stop myself and realise that if I didn't, I'd be stuck here for quite some time not really making any progress either! The last bit to do for now is get the GitHub repo up and running and then share this little app with the world!
+
+**Links To Work**:
+1. [YouTube Livestream Video (Building A Log Formatter #10)](https://www.youtube.com/watch?v=I8QplJJxwkY)
+2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1123609721863385088)
+3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1123643906233700353)
