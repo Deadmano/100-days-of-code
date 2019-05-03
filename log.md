@@ -426,3 +426,15 @@
 1. [YouTube Livestream Video (Building A Log Formatter #10)](https://www.youtube.com/watch?v=I8QplJJxwkY)
 2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1123609721863385088)
 3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1123643906233700353)
+
+### Day 32: May 2, Thursday.
+
+**Today's Progress**: The log formatter is finally complete!
+
+**Time Spent**: 3 hours 30 minutes.
+
+**Thoughts**: If JavaScript functions weren't tripping me up then it was definitely the CSS and all the ways to handle a responsive layout! I spent a few hours working on getting the website responsive, from 400px all the way up to 2560px! I set several breakpoints and adjusted the layout accordingly, having both a column and row layout depending on the maximum width available. It took me quite some time to set up and get working properly, especially with fluid font sizes thanks to "vw" units, but I believe it will help me in future projects as I know exactly what to prepare for and how to get the desired results! I'm really proud that this project is finally complete, and with the final touches and bits of polish I can now get a GitHub repository opened up and make the very first commit of no doubt many to come!
+
+**Links To Work**:
+1. [YouTube Livestream Video (Building A Log Formatter #11)](https://www.youtube.com/watch?v=SDofm9zUaOs)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1124061578859622402)
