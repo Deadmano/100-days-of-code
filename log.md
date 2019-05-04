@@ -409,8 +409,8 @@
 **Thoughts**: I actually had a lot of fun with CSS today, even though that wasn't supposed to be the highlight, I ended up creating a modal with which to display errors in to users, as I couldn't think of a better way, other than displaying plain text which I felt wouldn't catch the eye of the user. The error modal only pops up when a user tries to format their input but there are errors. I also managed to finish up the rest of the form validation, properly this time, as I re-wrote several functions and refactored the rest to have a single function handle live user input, and another to handle validation once the form is submitted for formatting. As for issues, my stream cut out just over an hour before the end, so that is why there are 2 parts... I'm hoping I can wrap this project up tomorrow for a basic release, if I can get the last few bits of code ironed out and finish up with the CSS styling, as it's still pretty much a mobile-only app due to doing the design from scratch starting from the lowest resolution! I'm really excited with my progress and how much I've managed to achieve with this project, and I can't wait to get back to my studies on freeCodeCamp to be better prepared for future projects!
 
 **Links To Work**:
-1. [YouTube Livestream Video (Building A Log Formatter #9) - Part 1](https://www.youtube.com/watch?v=8t5-jfkNSDc)
-2. [YouTube Livestream Video (Building A Log Formatter #9) - Part 2](https://www.youtube.com/watch?v=eXJUkQEw8uE)
+1. [YouTube Livestream Video (Building A Log Formatter #10) - Part 1](https://www.youtube.com/watch?v=8t5-jfkNSDc)
+2. [YouTube Livestream Video (Building A Log Formatter #10) - Part 2](https://www.youtube.com/watch?v=eXJUkQEw8uE)
 3. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1123243733904973824)
 4. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1123371466723033088)
 
@@ -423,7 +423,7 @@
 **Thoughts**: I finally did it! Never have I been so excited to actually be done with something; purely because I thought that things would never end at the rate I was thinking of new and exciting things to add to the log formatter! But I did it, I added the last bits of code to ensure everything runs smoothly, and then I finished up the CSS styling and added support for several different devices ranging from various mobile devices and even including all major desktop monitor resolutions! I'm really happy with the outcome, and while there are quite a few changes and additions I'd like to add and make, that will have to wait for a future update. It was really hard breaking free from the mentality of wanting to add new things, but I had to stop myself and realise that if I didn't, I'd be stuck here for quite some time not really making any progress either! The last bit to do for now is get the GitHub repo up and running and then share this little app with the world!
 
 **Links To Work**:
-1. [YouTube Livestream Video (Building A Log Formatter #10)](https://www.youtube.com/watch?v=I8QplJJxwkY)
+1. [YouTube Livestream Video (Building A Log Formatter #11)](https://www.youtube.com/watch?v=I8QplJJxwkY)
 2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1123609721863385088)
 3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1123643906233700353)
 
@@ -436,5 +436,17 @@
 **Thoughts**: If JavaScript functions weren't tripping me up then it was definitely the CSS and all the ways to handle a responsive layout! I spent a few hours working on getting the website responsive, from 400px all the way up to 2560px! I set several breakpoints and adjusted the layout accordingly, having both a column and row layout depending on the maximum width available. It took me quite some time to set up and get working properly, especially with fluid font sizes thanks to "vw" units, but I believe it will help me in future projects as I know exactly what to prepare for and how to get the desired results! I'm really proud that this project is finally complete, and with the final touches and bits of polish I can now get a GitHub repository opened up and make the very first commit of no doubt many to come!
 
 **Links To Work**:
-1. [YouTube Livestream Video (Building A Log Formatter #11)](https://www.youtube.com/watch?v=SDofm9zUaOs)
+1. [YouTube Livestream Video (Building A Log Formatter #12)](https://www.youtube.com/watch?v=SDofm9zUaOs)
 2. [Twitter Post](https://twitter.com/PhillipStolic/status/1124061578859622402)
+
+### Day 33: May 3, Friday.
+
+**Today's Progress**: I spent the majority of the time getting the log formatter project ready for GitHub publication!
+
+**Time Spent**: 3 hours 52 minutes.
+
+**Thoughts**: So the majority of the time spent went to adding last minute touches and writing out the documentation info for the project itself. I'm really excited to have finally released this project and be able to share it with others who may benefit from using it as I have been doing thus far! It's an incredible feeling to have something released, something to show for all these hours spent on it. I can't wait to go back to studying and build even more exciting things in the future!
+
+**Links To Work**:
+1. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1124433474595774464)
+2. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1124495586101690368)
