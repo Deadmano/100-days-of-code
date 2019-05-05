@@ -436,7 +436,7 @@
 **Thoughts**: If JavaScript functions weren't tripping me up then it was definitely the CSS and all the ways to handle a responsive layout! I spent a few hours working on getting the website responsive, from 400px all the way up to 2560px! I set several breakpoints and adjusted the layout accordingly, having both a column and row layout depending on the maximum width available. It took me quite some time to set up and get working properly, especially with fluid font sizes thanks to "vw" units, but I believe it will help me in future projects as I know exactly what to prepare for and how to get the desired results! I'm really proud that this project is finally complete, and with the final touches and bits of polish I can now get a GitHub repository opened up and make the very first commit of no doubt many to come!
 
 **Links To Work**:
-1. [YouTube Livestream Video (Building A Log Formatter #12)](https://www.youtube.com/watch?v=SDofm9zUaOs)
+1. [YouTube Livestream Video (Warring against Code with Ms. Efimova!)](https://www.youtube.com/watch?v=SDofm9zUaOs)
 2. [Twitter Post](https://twitter.com/PhillipStolic/status/1124061578859622402)
 
 ### Day 33: May 3, Friday.
@@ -460,6 +460,18 @@
 **Thoughts**: I managed to get through 3 challenges of varying difficulty on codewars with the wonderful Kate Efimova ([@kefimochi](https://twitter.com/kefimochi)) who is also doing their #100DaysOfCode challenge! It was a pleasant change to be able to work on coding problems and finding solutions to them with someone else. It exposed me to different ways of approaching problems and going about troubleshooting them, especially with regards to finding a solution that may be overly complicated vs. simply finding a solution that works. I really enjoyed the experience and hope that it is something that I will be able to do more of in the future! My goals going forward will be to continue with the freeCodeCamp curriculum and get through the JavaScript section, which will lead me to build more cool stuff via the project tasks!
 
 **Links To Work**:
-1. [YouTube Livestream Video](https://www.youtube.com/watch?v=8MHpOHNeLCo)
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #16)](https://www.youtube.com/watch?v=8MHpOHNeLCo)
 2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1124744188220850176)
 3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1124800101963186176)
+
+### Day 35: May 5, Sunday.
+
+**Today's Progress**: I completed the Object Oriented Programming section on freeCodeCamp!
+
+**Time Spent**: 1 hour 6 minutes.
+
+**Thoughts**: It feels good to finally be back studying! Today I finished up what was left of the Object Oriented Programming section on freeCodeCamp, learning about prototype inheritance as well as how closures work and doing some pretty cool stuff creating modules to reuse code! Tomorrow I'll be tackling the Functional Programming section, which should be something completely different to what I'm used to!
+
+**Links To Work**:
+1. [YouTube Livestream Video](https://www.youtube.com/watch?v=3pAVnsmo5hQ)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1125137364936994816)
