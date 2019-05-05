@@ -460,7 +460,7 @@
 **Thoughts**: I managed to get through 3 challenges of varying difficulty on codewars with the wonderful Kate Efimova ([@kefimochi](https://twitter.com/kefimochi)) who is also doing their #100DaysOfCode challenge! It was a pleasant change to be able to work on coding problems and finding solutions to them with someone else. It exposed me to different ways of approaching problems and going about troubleshooting them, especially with regards to finding a solution that may be overly complicated vs. simply finding a solution that works. I really enjoyed the experience and hope that it is something that I will be able to do more of in the future! My goals going forward will be to continue with the freeCodeCamp curriculum and get through the JavaScript section, which will lead me to build more cool stuff via the project tasks!
 
 **Links To Work**:
-1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #16)](https://www.youtube.com/watch?v=8MHpOHNeLCo)
+1. [YouTube Livestream Video (Warring Against Code With Ms. Efimova!)](https://www.youtube.com/watch?v=8MHpOHNeLCo)
 2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1124744188220850176)
 3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1124800101963186176)
 
@@ -473,5 +473,5 @@
 **Thoughts**: It feels good to finally be back studying! Today I finished up what was left of the Object Oriented Programming section on freeCodeCamp, learning about prototype inheritance as well as how closures work and doing some pretty cool stuff creating modules to reuse code! Tomorrow I'll be tackling the Functional Programming section, which should be something completely different to what I'm used to!
 
 **Links To Work**:
-1. [YouTube Livestream Video](https://www.youtube.com/watch?v=3pAVnsmo5hQ)
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #16)](https://www.youtube.com/watch?v=3pAVnsmo5hQ)
 2. [Twitter Post](https://twitter.com/PhillipStolic/status/1125137364936994816)
