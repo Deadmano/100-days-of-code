@@ -475,3 +475,16 @@
 **Links To Work**:
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #16)](https://www.youtube.com/watch?v=3pAVnsmo5hQ)
 2. [Twitter Post](https://twitter.com/PhillipStolic/status/1125137364936994816)
+
+### Day 36: May 6, Monday.
+
+**Today's Progress**: I began the Functional Programming section on freeCodeCamp!
+
+**Time Spent**: 3 hours 29 minutes.
+
+**Thoughts**: So today I managed to cover quite a few new topics on functional programming as well as learning the difference between imperative and declarative programming! I also finally grasped the understanding behind the Map method and realised how I can make my own prototypes which extend a base type such as an array, which is really cool to do! Someone else dropped by in my stream to share their knowledge on String.raw() which has some pretty unique uses! All in all I felt that I could manage and I didn't feel as lost as I used to, and I feel I owe that to working on my recent project; so far so good!
+
+**Links To Work**:
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #17)](https://www.youtube.com/watch?v=QbBzca-KIIw)
+2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1125297737086504960)
+3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1125351728952545281)
