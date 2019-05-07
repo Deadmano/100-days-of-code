@@ -488,3 +488,15 @@
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #17)](https://www.youtube.com/watch?v=QbBzca-KIIw)
 2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1125297737086504960)
 3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1125351728952545281)
+
+### Day 37: May 7, Tuesday.
+
+**Today's Progress**: I completed the Functional Programming section and began on Intermediate Algorithm Scripting on freeCodeCamp!
+
+**Time Spent**: 5 hours 17 minutes.
+
+**Thoughts**: Getting through the rest of the functional programming section honestly felt like a breeze! I still struggled a bit with methods I hadn't used before, such as reduce(), but some practice later and I was ready to go! I definitely feel like the log formatter project helped me, as things made way more sense, especially from the logic point of view! I guess if you use things often enough they stick much more than just doing a bit of revision here and there. I also managed to start on the intermediate algorithm scripting section, and I actually didn't end up struggling with them, despite using higher power functions! So I'm definitely still enjoying things and tomorrow is yet another day to put to the test my current skills!
+
+**Links To Work**:
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #18)](https://www.youtube.com/watch?v=MN2XxP6I-1E)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1125726120513560576)
