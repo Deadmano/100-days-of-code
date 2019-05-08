@@ -500,3 +500,15 @@
 **Links To Work**:
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #18)](https://www.youtube.com/watch?v=MN2XxP6I-1E)
 2. [Twitter Post](https://twitter.com/PhillipStolic/status/1125726120513560576)
+
+### Day 38: May 8, Wednesday.
+
+**Today's Progress**: Struggled onward through the intermediate algorithm scripting section of freeCodeCamp!
+
+**Time Spent**: 2 hours 59 minutes.
+
+**Thoughts**: They sure don't call it "intermediate" for nothing! I spent just shy of 2 hours working on a single challenge, trying to figure out the best way to handle things, and wow did I struggle! It had to do with objects, and accessing an array with an object, validating key/value pairs within. I think I overcomplicated quite a bit of the task, getting to a point where I was accessing each key/value pair individually instead of just comparing the entire object, which ended up being what I did. I wrote 40+ lines of code which I reduced to something ridiculous under 10... So yeah, goes to show that sometimes I should probably try the simpler approach before going "all out". But I managed to still enjoy myself, and it was definitely a challenge I won't be forgetting any time soon! The last challenge I did for the day involved some RegEx, which, while complicated, I managed to resolve in the end remembering some past lessons! I was expecting to finish way more than just 2 challenges in the almost 3 hour session, but then again, it is the experience that counts! Hopefully I get to go through a few more tomorrow.
+
+**Links To Work**:
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #19)](https://www.youtube.com/watch?v=uihTMSeAg0Q)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1126173241012379648)
