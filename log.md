@@ -522,6 +522,6 @@
 **Thoughts**: Today wasn't as bad as yesterday, that's for sure! I managed to solve quite a few problems without struggling too hard. A few array solutions, as well as using a bit of RegExp, nothing too crazy! There were times where I wished I could "pretty up" my solution, but at the very least it served its purpose as I think I should rather focus on resolving the challenge and keep the prettying up to actual projects I work on. I'm slowly starting to crave working on my log formatter to add a few updates, so I'll have to see if I can sneak some time in to do so!
 
 **Links To Work**:
-1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #19)](https://www.youtube.com/watch?v=oTVSzCj0HnI)
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #20)](https://www.youtube.com/watch?v=oTVSzCj0HnI)
 2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1126527620659712000)
 3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1126582073798594565)
