@@ -525,3 +525,15 @@
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #20)](https://www.youtube.com/watch?v=oTVSzCj0HnI)
 2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1126527620659712000)
 3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1126582073798594565)
+
+### Day 40: May 10, Friday.
+
+**Today's Progress**: I realised I need to brush up on my Maths to progress further!
+
+**Time Spent**: 1 hour 25 minutes.
+
+**Thoughts**: Today I really struggled through some of the algorithms as they were heavily Maths related, covering things that I hadn't touched since high school almost 10 years ago, such as the Fibonacci sequence. I feel I'll need to brush up on some advanced Maths at some point if I am to have an easier time, though, I did still manage to complete the tasks in the end, I just had to struggle far more than I normally would have. Not sure how often I will use such functions, but I guess it doesn't hurt to know them and how to solve more complex issues.
+
+**Links To Work**:
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #21)](https://www.youtube.com/watch?v=tPJxbltNGbo)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1126857738997456897)
