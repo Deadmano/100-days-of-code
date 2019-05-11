@@ -537,3 +537,13 @@
 **Links To Work**:
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #21)](https://www.youtube.com/watch?v=tPJxbltNGbo)
 2. [Twitter Post](https://twitter.com/PhillipStolic/status/1126857738997456897)
+
+### Day 41: May 11, Saturday.
+
+**Today's Progress**: I spent some time working on a project with a member of the community!
+
+**Time Spent**: 4 hours 24 minutes.
+
+**Thoughts**: Today I did something a little different which I found rather challenging, but rewarding! I worked on what is the beginning of a cooking timer which basically allows you to pick a food item of your choice and it'll set a timer to remind you when the time is up! This is the first time I've actually properly worked with `setInterval()` so I really struggled for quite some time to actually get the functionality of stopping and stopping the timer properly. In the end, I managed, and it felt so incredible! Most of the functionality is already done, such as dynamically populating a `select` list with choices from an object array, and stopping and starting the timer. A bit more polish, and we'll be good to launch!
+
+**Link To Work**: [YouTube Livestream Video (Conquering A Timer Project With Ms. Shikanova!)](https://www.youtube.com/watch?v=a3OA_h813HU)
