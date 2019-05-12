@@ -549,3 +549,16 @@
 **Links To Work**:
 1. [YouTube Livestream Video (Conquering A Timer Project With Ms. Shikanova!)](https://www.youtube.com/watch?v=a3OA_h813HU)
 2. [Twitter Post](https://twitter.com/PhillipStolic/status/1127335349548724224)
+
+### Day 42: May 12, Sunday.
+
+**Today's Progress**: I got through some intermediate algorithm scripting challenges on freeCodeCamp!
+
+**Time Spent**: 3 hours 39 minutes.
+
+**Thoughts**: While today wasn't as bad as previous days in the intermediate algorithm scripting challenges section, it was still quite challenging as I had to work with Mathematic equations I haven't touched since high school, and my knowledge on them was rusty to say the least! Though, in the end, as usual, I managed to figure it out by breaking the requirements down into parts and creating helper functions to achieve the needed tasks. Today was the first time I actually worked with data in binary format, and I even managed to convert the binary data into a decimal output and then convert that into ASCII! It was something new, and refreshing to see data the way the computer pretty much does! Tomorrow I should be done with the last bit of the challenges and I'll be able to start working on the projects!
+
+**Links To Work**:
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #22)](https://www.youtube.com/watch?v=uwhycVVoJJE)
+2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1127621832524402693)
+3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1127686983202103296)
