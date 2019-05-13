@@ -562,3 +562,15 @@
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #22)](https://www.youtube.com/watch?v=uwhycVVoJJE)
 2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1127621832524402693)
 3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1127686983202103296)
+
+### Day 43: May 13, Monday.
+
+**Today's Progress**: I finally completed the intermediate algorithm scripting section on freeCodeCamp!
+
+**Time Spent**: 3 hours 18 minutes.
+
+**Thoughts**: It's done! The intermediate algorithm section is finally complete, but not before ending on the hardest challenge in that section so far; calculating the orbital period of a celestial object! I really feel accomplished, as that section was the hardest by far, and now it is complete! I also managed to get started with the JavaScript projects, which was somewhat of a let-down as I was expecting them to be full-on projects with HTML/CSS needed on a web app type set-up but it just ended up being more of a challenge and solving problems. Though, I still enjoyed it, and managed to complete 2 projects today; a palindrome checker as well as one that converts numbers into Roman numerals. There's just 3 more projects to go and I'll be done with the projects and the JavaScript section as a whole! I honestly can't wait, and that'll be happening this week still!
+
+**Links To Work**:
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #23)](https://www.youtube.com/watch?v=iDUVPs2jqas)
+2. [Twitter Link](https://twitter.com/PhillipStolic/status/1127995808484343809)
