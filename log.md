@@ -574,3 +574,16 @@
 **Links To Work**:
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures #23)](https://www.youtube.com/watch?v=iDUVPs2jqas)
 2. [Twitter Link](https://twitter.com/PhillipStolic/status/1127995808484343809)
+
+### Day 44: May 14, Tuesday.
+
+**Today's Progress**: Completed 2 projects for freeCodeCamp's JavaScript Algorithms and Data Structures!
+
+**Time Spent**: 1 hour 57 minutes.
+
+**Thoughts**: I had a load of fun with today's set of projects! I managed to complete a ROT-13 decipherer as well as a telephone number validator that had to pass all sorts of tests, which I eventually got working with 4 sets of RegEx cases. I'm definitely happy with the progress, though I feel I could improve upon the way I solve the projects if I spent a bit of extra time refactoring. All that is left now is a cash register project, which I feel I am going to have an insane amount of fun with, and then I am done with the JavaScript section!
+
+**Links To Work**:
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures Projects #1)](https://www.youtube.com/watch?v=PokGWz9CNEs)
+2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1128400208898002946)
+3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1128430813404704768)
