@@ -601,3 +601,16 @@
 2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1128705971990216704)
 3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1128751864542109701)
 4. [Twitter Post #3](https://twitter.com/PhillipStolic/status/1128827491873955845)
+
+### Day 46: May 16, Thursday.
+
+**Today's Progress**: Started on the front end libraries section and finished up both Bootstrap and jQuery sections!
+
+**Time Spent**: 1 hour 2 minutes.
+
+**Thoughts**: Today I managed to get through both the Bootstrap and jQuery sections on freeCodeCamp, and it was really interesting to see how I can use frameworks to help speed up things I'd do in the vanilla languages (JavaScript/HTML/CSS). I still want to get to a point where I more comfortably understand the nuances of JavaScript before I use a library that simplifies everything for you and takes the ability of troubleshooting and innovating away. But from what I've seen, it definitely simplifies things way more, and in a lot of cases is neater too! I didn't get as much time to work on things as I'd have liked, but I have the upcoming weekend to make up for it! My stream seems to have disconnected briefly at some point, that's why there are two video parts.
+
+**Links To Work**:
+1. [YouTube Livestream Video (Front End Libraries #1 - Part 1)](https://www.youtube.com/watch?v=LB8NIGVa6Vg)
+2. [YouTube Livestream Video (Front End Libraries #1 - Part 2)](https://www.youtube.com/watch?v=FJTfXpha1d8)
+3. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1129047347844067329)
