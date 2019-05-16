@@ -587,3 +587,17 @@
 1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures Projects #1)](https://www.youtube.com/watch?v=PokGWz9CNEs)
 2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1128400208898002946)
 3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1128430813404704768)
+
+### Day 45: May 15, Wednesday.
+
+**Today's Progress**: I completed the final JavaScript Algorithms and Data Structures project and got my certificate!
+
+**Time Spent**: 4 hours 34 minutes.
+
+**Thoughts**: Okay, this was officially the hardest project to date! Not because I didn't understand what needed to happen, or other confusing things I was trying to understand; no! It was due to the fact that I had no idea how to implement the solution for which I had in mind... I had to build a cash register function that returns an object with two-dimensional arrays based on user input, price, change, etc. The problem seemed to be rather complex but I didn't know any other way to solve it. So instead I ended up nesting far too many if statements inside of a while loop. Most likely the worst code I've written to date, but at the very least the problem was solved. While I'm not happy with the result of my final project, I am at the very least relieved to be done with the JavaScript section completely, and being able to move onto other things which will allow me to utilise and hone my current JavaScript skills! I plan to return to this and other projects in due time to see how much I've learned and how I can actually refactor the code with the new skills acquired. Tomorrow I begin with the Front End Libraries section of freeCodeCamp!
+
+**Links To Work**:
+1. [YouTube Livestream Video (JavaScript Algorithms And Data Structures Projects #1)](https://www.youtube.com/watch?v=J0bWM0RyDpQ)
+2. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1128705971990216704)
+3. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1128751864542109701)
+4. [Twitter Post #3](https://twitter.com/PhillipStolic/status/1128827491873955845)
