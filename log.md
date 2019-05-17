@@ -614,3 +614,15 @@
 1. [YouTube Livestream Video (Front End Libraries #1 - Part 1)](https://www.youtube.com/watch?v=LB8NIGVa6Vg)
 2. [YouTube Livestream Video (Front End Libraries #1 - Part 2)](https://www.youtube.com/watch?v=FJTfXpha1d8)
 3. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1129047347844067329)
+
+### Day 47: May 17, Friday.
+
+**Today's Progress**: I completed the Sass section and began on the React one on freeCodeCamp!
+
+**Time Spent**: 1 hour 6 minutes.
+
+**Thoughts**: So I got the introduction into Sass and I really liked how variables can achieve many things that help the shortcoming of CSS, such as replacing a specific colour as a variable and then only having to change that one variable. But, the for loops and while loops were rather confusing, as that is logic you can already do in JavaScript, and since Sass can't generate dynamic content, it'd make sense to do both the structure and styling dynamically in JavaScript, but that was just my two cents. The React section was something else though; wow, the ease in which you can create entire groups of elements was really clean vs. the way you'd have to do it with vanilla JavaScript and nodes etc. Tomorrow I'll be continuing with React and eventually moving onto Redux.
+
+**Links To Work**:
+1. [YouTube Livestream Video (Front End Libraries #2)](https://www.youtube.com/watch?v=HHxYgEDY_dc)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1129410482744438785)
