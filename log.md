@@ -626,3 +626,15 @@
 **Links To Work**:
 1. [YouTube Livestream Video (Front End Libraries #2)](https://www.youtube.com/watch?v=HHxYgEDY_dc)
 2. [Twitter Post](https://twitter.com/PhillipStolic/status/1129410482744438785)
+
+### Day 48: May 18, Saturday.
+
+**Today's Progress**: Got through several more modules of React on freeCodeCamp!
+
+**Time Spent**: 1 hour 16 minutes.
+
+**Thoughts**: Today I paced myself to better focus on the components of React and how they work. It was really interesting to see how you can call components inside of other components, nesting them, and creating a single component out of all of them. That definitely makes the code easier and far more manageable when you know that it is built up like Lego blocks essentially! I also went through properties and found how they can be used to display variables, which adds to the whole dynamic experience! So far I am enjoying React, and obviously it helps that I have a healthy understand of JavaScript to make sense of what is happening. Since it is the weekend I am trying to take it easy and rest up, but come the weekday I'm going to be pushing to complete both React and Redux within the week!
+
+**Links To Work**:
+1. [YouTube Livestream Video (Front End Libraries #3)](https://www.youtube.com/watch?v=UFkiTyAnRrc)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1129802467087138817)
