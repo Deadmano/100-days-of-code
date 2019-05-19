@@ -638,3 +638,15 @@
 **Links To Work**:
 1. [YouTube Livestream Video (Front End Libraries #3)](https://www.youtube.com/watch?v=UFkiTyAnRrc)
 2. [Twitter Post](https://twitter.com/PhillipStolic/status/1129802467087138817)
+
+### Day 49: May 19, Sunday.
+
+**Today's Progress**: I got through a few more modules of React on freeCodeCamp!
+
+**Time Spent**: 2 hours 12 minutes.
+
+**Thoughts**: Today I covered quite a bit on states and how they work to change data behind the scenes and have it updated (rendered) for the client in real-time, which I found amazing! Up until now I have always had to find the element, check its values, and then change it, which took quite a bit to get working, whereas React is so much easier to work with. I can now understand, more so than before, why it is preferred for things such as the UI elements! The stream took an interesting and educational twist near the half-way mark where I had a fellow programmer educate me on some beautiful places in Russia, the Russian language, as well as a few other linguistics-related topics! All in all, I had fun, I thoroughly enjoyed learning, and I can't wait to give this upcoming week my all!
+
+**Links To Work**:
+1. [YouTube Livestream Video (Front End Libraries #4)](https://www.youtube.com/watch?v=SWXKNS6wEjo)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1130183453637599232)
