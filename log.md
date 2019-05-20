@@ -650,3 +650,15 @@
 **Links To Work**:
 1. [YouTube Livestream Video (Front End Libraries #4)](https://www.youtube.com/watch?v=SWXKNS6wEjo)
 2. [Twitter Post](https://twitter.com/PhillipStolic/status/1130183453637599232)
+
+### Day 50: May 20, Monday.
+
+**Today's Progress**: Got through even more React modules on freeCodeCamp and published a Medium article!
+
+**Time Spent**: 1 hour 11 minutes.
+
+**Thoughts**: I have finally made it half-way through this challenge so far, and I am truly excited and proud of myself for keeping up with this commitment! Today I managed to learn about the controlled input and lifecycle methods that React utilises! It made me realise that you can have a single source of information which can then be distributed to various methods and updated in UIs as needed. The lifecycle methods also help give you that extra bit of granularity to fine-tune your applications. All in all, I am really starting to appreciate how powerful React is, and how it simplifies things allowing you to focus more on building and quickly iterating! I also managed to publish an article on Medium to share my progress thus far, hoping it'll help others who are starting out!
+
+**Links To Work**:
+1. [YouTube Livestream Video (Front End Libraries #5)](https://www.youtube.com/watch?v=5JwKaOp_Z5I)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1130579049141739522)
