@@ -662,3 +662,15 @@
 **Links To Work**:
 1. [YouTube Livestream Video (Front End Libraries #5)](https://www.youtube.com/watch?v=5JwKaOp_Z5I)
 2. [Twitter Post](https://twitter.com/PhillipStolic/status/1130579049141739522)
+
+### Day 51: May 21, Tuesday.
+
+**Today's Progress**: I completed the React section from freeCodeCamp!
+
+**Time Spent**: 1 hour 38 minutes.
+
+**Thoughts**: Today I managed to complete the last few modules on React over at freeCodeCamp! The modules covered quite a bit of conditional displays based on the state object, and how we can go about rendering components based on the changes therein. I'm still trying to wrap my head around using React vs. the conventional use of HTML/CSS/JS, but in many cases having a modularised approach to render the UI is REALLY helpful! Tomorrow I'll be starting on the Redux section on freeCodeCamp, and I have literally no idea what to expect!
+
+**Links To Work**:
+1. [YouTube Livestream Video (Front End Libraries #6)](https://www.youtube.com/watch?v=XZscMAuL9KY)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1130904829893763074)
