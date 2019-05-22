@@ -674,3 +674,15 @@
 **Links To Work**:
 1. [YouTube Livestream Video (Front End Libraries #6)](https://www.youtube.com/watch?v=XZscMAuL9KY)
 2. [Twitter Post](https://twitter.com/PhillipStolic/status/1130904829893763074)
+
+### Day 52: May 22, Wednesday.
+
+**Today's Progress**: Finished off the Redux section and began on React and Redux from freeCodeCamp!
+
+**Time Spent**: 3 hours 35 minutes.
+
+**Thoughts**: Today I managed to finish up the last bit of the Redux section on freeCodeCamp and even began working on the React and Redux section which combined the best of both of those wonderful libraries! There are only a few modules left and then I can finally begin working on the projects and be able to put all of these new technologies to the test!
+
+**Links To Work**:
+1. [YouTube Livestream Video (Front End Libraries #7)](https://www.youtube.com/watch?v=VKzgQnJ1MKQ)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1131157866256191488)
