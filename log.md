@@ -686,3 +686,15 @@
 **Links To Work**:
 1. [YouTube Livestream Video (Front End Libraries #7)](https://www.youtube.com/watch?v=VKzgQnJ1MKQ)
 2. [Twitter Post](https://twitter.com/PhillipStolic/status/1131157866256191488)
+
+### Day 53: May 23, Thursday.
+
+**Today's Progress**: I completed the React and Redux combined section and began on projects from freeCodeCamp!
+
+**Time Spent**: 2 hours 50 minutes.
+
+**Thoughts**: Today I managed to get through the React and Redux combined sections from freeCodeCamp, finishing up the lasts bits which covered passing state from the Redux store to React via props. It was quite a bit to take in, and I'm feeling as though everything that has been covered these past few modules has been slowly washing over me without a means to retain the information. Thankfully, however, I have just begun working on projects, and I actually got a local create-react-app setup working, officially starting to work on my first project; the random quote machine! I'm really excited as it means I get to use whatever I've remembered and put it to practice. I managed to successfully work with state, which has definitely helped me with this project thus far, being able to refer to existing values and work on things from there. Tomorrow I should be able to flesh it out some more and begin with styling it, I can't wait!
+
+**Links To Work**:
+1. [YouTube Livestream Video (Front End Libraries #8)](https://www.youtube.com/watch?v=8ewb8x0477A)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1131582932357931010)
