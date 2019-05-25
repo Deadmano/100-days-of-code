@@ -710,3 +710,13 @@
 **Links To Work**:
 1. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1132104718921150469)
 2. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1132105279750004738)
+
+### Day 55: May 25, Saturday.
+
+**Today's Progress**: I managed to read up on some React and Redux documentation and experiment with what I learnt.
+
+**Time Spent**: 1 hour 6 minutes.
+
+**Thoughts**: While I haven't been able to stream this weekend due to commitments, I at the very least kept myself busy with some [wonderful Redux and React documentation](https://github.com/V1raNi/webdev-bootcamp-theory) that a friend of mine put together during their own studies. Armed with that extra bit of knowledge I played around with some states, trying to get more familiar with the whole process, and basically "think React". I feel a bit more confident, and when I get back to streaming I'll be able to finish up that random quote project!
+
+**Link To Work**: [Twitter Post](https://twitter.com/PhillipStolic/status/1132291738477965318)
