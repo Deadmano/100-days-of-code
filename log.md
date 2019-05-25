@@ -698,3 +698,15 @@
 **Links To Work**:
 1. [YouTube Livestream Video (Front End Libraries #8)](https://www.youtube.com/watch?v=8ewb8x0477A)
 2. [Twitter Post](https://twitter.com/PhillipStolic/status/1131582932357931010)
+
+### Day 54: May 24, Friday.
+
+**Today's Progress**: I worked on the random quote machine some more!
+
+**Time Spent**: 1 hour 23 minutes.
+
+**Thoughts**: I didn't get a chance to stream today as there was too much things happening that I had to get around to, but through all the distractions I managed to work on my random quote machine a bit more! It feels good to be finally applying the things I've learnt thus far, and hopefully this will allow me to better retain all the new information! Tomorrow is another chaotic day for me, but I'm hoping I'll be able to get at least an hour's stream in.
+
+**Links To Work**:
+1. [Twitter Post #1](https://twitter.com/PhillipStolic/status/1132104718921150469)
+2. [Twitter Post #2](https://twitter.com/PhillipStolic/status/1132105279750004738)
