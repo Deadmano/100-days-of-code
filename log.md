@@ -720,3 +720,15 @@
 **Thoughts**: While I haven't been able to stream this weekend due to commitments, I at the very least kept myself busy with some [wonderful Redux and React documentation](https://github.com/V1raNi/webdev-bootcamp-theory) that a friend of mine put together during their own studies. Armed with that extra bit of knowledge I played around with some states, trying to get more familiar with the whole process, and basically "think React". I feel a bit more confident, and when I get back to streaming I'll be able to finish up that random quote project!
 
 **Link To Work**: [Twitter Post](https://twitter.com/PhillipStolic/status/1132291738477965318)
+
+### Day 56: May 26, Sunday.
+
+**Today's Progress**: I began styling the random quote machine project!
+
+**Time Spent**: 1 hour 24 minutes.
+
+**Thoughts**: I spent a bit of time beginning the styling process of the random quote machine project, by adding the entire content to a modal. I also ensured that all the tests passed, so all that is left is to give it a pretty look and I can wrap this project up! Things are slowing down for me somewhat as I tend to real-life matters, but I'm still giving this as much as I can, and so long as there is progress, no matter how small, I will keep on moving forward!
+
+**Links To Work**:
+1. [YouTube Livestream Video (Build a Random Quote Machine #1)](https://www.youtube.com/watch?v=pp0CJ3dAzX4)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1132759889686740992)
