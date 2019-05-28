@@ -732,3 +732,15 @@
 **Links To Work**:
 1. [YouTube Livestream Video (Build a Random Quote Machine #1)](https://www.youtube.com/watch?v=pp0CJ3dAzX4)
 2. [Twitter Post](https://twitter.com/PhillipStolic/status/1132759889686740992)
+
+### Day 57: May 27, Monday.
+
+**Today's Progress**: I completed the random quote machine project from freeCodeCamp!
+
+**Time Spent**: 2 hours 31 minutes.
+
+**Thoughts**: I was really excited today as I finally got to complete the random quote machine project by styling it with random background colours and animations! The CSS seemed to come more naturally now thanks to previous projects, and I spent way less time struggling on how to apply something and more time thinking about ideas to improve upon the look and feel of the project; it's an incredible feeling! I could have done a whole bunch more, but I also wanted to focus on just getting the requirements done and dusted and having something that is at least presentable. Tomorrow I've got the markdown previewer project to do, and I honestly have no idea what to expect or how I'm even going to approach it, so that'll be fun!
+
+**Links To Work**:
+1. [YouTube Livestream Video (Build a Random Quote Machine #2)](https://www.youtube.com/watch?v=uldCB6g_34M)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1133121057160876032)
