@@ -744,3 +744,15 @@
 **Links To Work**:
 1. [YouTube Livestream Video (Build a Random Quote Machine #2)](https://www.youtube.com/watch?v=uldCB6g_34M)
 2. [Twitter Post](https://twitter.com/PhillipStolic/status/1133121057160876032)
+
+### Day 58: May 28, Tuesday.
+
+**Today's Progress**: I started on the markdown previewer project from freeCodeCamp!
+
+**Time Spent**: 1 hour 24 minutes.
+
+**Thoughts**: Today I managed to start working on the markdown previewer project, and I decided I'd avoid the entire create-react-app path as it seemed to be a bit overkill to set up a basic app, so I stuck with just adding the necessary React and ReactDOM bundles which I could import directly into Codepen. I initially thought this would be a struggle, but it turns out we could use a library that handles the conversion of markdown to HTML; Marked, so all that was left was to handle the onChange state and call the function as needed and update the state to reflect the changes. I managed to pass all the tests and all that is left now is to style the project!
+
+**Links To Work**:
+1. [YouTube Livestream Video (Build a Markdown Previewer #1)](https://www.youtube.com/watch?v=bQ7GiFJlbYI)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1133479219713978368)
