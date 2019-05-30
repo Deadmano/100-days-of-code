@@ -756,3 +756,13 @@
 **Links To Work**:
 1. [YouTube Livestream Video (Build a Markdown Previewer #1)](https://www.youtube.com/watch?v=bQ7GiFJlbYI)
 2. [Twitter Post](https://twitter.com/PhillipStolic/status/1133479219713978368)
+
+### Day 59: May 29, Wednesday.
+
+**Today's Progress**: I spent a few hours going through React documentation to better understand it.
+
+**Time Spent**: 2 hours 34 minutes.
+
+**Thoughts**: Since I didn't have the stability to stream for as long as I had wanted to, I decided to rather read up on some React documentation and work on better understanding how create-react-app works and how I can better deploy the apps I create, as that was something that was really confusing me considering how much went into actually getting the app setup vs. the little I needed to do. I feel I have a slightly better understanding of how things work behind the scenes now, but only time will tell! Tomorrow is going to be another hectic day, but I'll be sure to find some time to study. Hopefully I'll have a few more hours to dedicate over the weekend.
+
+**Link To Work**: [Twitter Post](https://twitter.com/PhillipStolic/status/1133854002704199685)
