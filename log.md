@@ -766,3 +766,55 @@
 **Thoughts**: Since I didn't have the stability to stream for as long as I had wanted to, I decided to rather read up on some React documentation and work on better understanding how create-react-app works and how I can better deploy the apps I create, as that was something that was really confusing me considering how much went into actually getting the app setup vs. the little I needed to do. I feel I have a slightly better understanding of how things work behind the scenes now, but only time will tell! Tomorrow is going to be another hectic day, but I'll be sure to find some time to study. Hopefully I'll have a few more hours to dedicate over the weekend.
 
 **Link To Work**: [Twitter Post](https://twitter.com/PhillipStolic/status/1133854002704199685)
+
+### Day 60: May 30, Thursday.
+
+**Today's Progress**: I worked on React configuration from the official documentation.
+
+**Time Spent**: 1 hour 48 minutes.
+
+**Thoughts**: Today marks 2 months of back-to-back days of learning and coding! I went through the official React documentation to better understand certain sections that I was struggling with, especially things like how states are handled. Thanks to this I feel a whole lot more confident and realise the importance of managing state for user input.
+
+**Link To Work**: [Twitter Post](https://twitter.com/PhillipStolic/status/1134216571671502850)
+
+### Day 61: May 31, Friday.
+
+**Today's Progress**: I worked in a code playground on my mobile due to PC upgrades.
+
+**Time Spent**: 1 hour 36 minutes.
+
+**Thoughts**: While my PC is undergoing upgrades and a fibre line upgrade is underway, I decided I'd spend some time working in a code playground practicing some more React! I made a simple user input toggle whose contents were managed from the object's state itself, and I feel so excited about finally grasping state!
+
+**Link To Work**: [Twitter Post](https://twitter.com/PhillipStolic/status/1134532836705177601)
+
+### Day 62: June 1, Saturday.
+
+**Today's Progress**: I went through V1raNi's helpful React and Redux notes!
+
+**Time Spent**: 2 hours 26 minutes.
+
+**Thoughts**: Since I didn't have the equipment to do what I wanted to do, I thought my time would best be spent reading, since it doesn't require anything other than a device from which to read off of. So I turned to my mobile phone and went through V1raNi's [webdev-bootcamp-theory](https://github.com/V1raNi/webdev-bootcamp-theory) notes and caught up with some of the React and Redux sections I had covered previously. The libraries are appearing a whole lot less scary as a result!
+
+**Link To Work**: [Twitter Post](https://twitter.com/PhillipStolic/status/1134942489293598720)
+
+### Day 63: June 2, Sunday.
+
+**Today's Progress**: I worked on adding support for a markdown previewer for my log formatter project.
+
+**Time Spent**: 2 hours 44 minutes.
+
+**Thoughts**: My PC upgrades and the new line upgrade are finally complete! Being as super excited as I was, I immediately jumped back to a previous project, my log formatter, to see how I could add support for a markdown previewer for the output of the user input. It turns out I could used the [Marked](https://github.com/markedjs/marked) library on the output contents to generate a preview! This is super exciting, and will add a bit of extra features to my existing project which I hope to implement soon!
+
+**Link To Work**: [Twitter Post](https://twitter.com/PhillipStolic/status/1135226410547548161)
+
+### Day 64: June 3, Monday.
+
+**Today's Progress**: I finished up the markdown previewer project from freeCodeCamp!
+
+**Time Spent**: 2 hours 5 minutes.
+
+**Thoughts**: It feels good to be back to streaming! Today I spent the majority of my time on finishing up the styling of the markdown previewer, so it's a bit easier on the eyes! I've never been too happy with my own design work, but I think it works, and it definitely gets the job done! All tests were passed and I submitted the project; we're officially done with it! Tomorrow I'll hopefully start working on the drum machine project from freeCodeCamp, which should be something different; hopefully we can have some fun with it!
+
+**Links To Work**:
+1. [YouTube Livestream Video (Build a Markdown Previewer #2)](https://www.youtube.com/watch?v=diS9lRsIgDk)
+2. [Twitter Post](https://twitter.com/PhillipStolic/status/1135597934966431744)
